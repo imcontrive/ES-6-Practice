@@ -5,7 +5,9 @@ Returns the sum of the arguments
 */
 
 // Write the function here
-function sum() {}
+function sum() {
+  
+}
 
 // Tests
 sum(1, 31);
